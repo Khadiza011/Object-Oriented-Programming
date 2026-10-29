@@ -32,26 +32,26 @@ The examples are organized by topic to make learning, revision, and practice eas
 
 # Topics Covered
 
-- 01. Java Fundamentals
-- 02. Methods and Constructors
-- 03. Encapsulation
-- 04. Inheritance
-- 05. Polymorphism
-- 06. Abstraction
-- 07. Interfaces
-- 08. Static Members
-- 09. Packages and Access Control
-- 10. Exception Handling
-- 11. Advanced OOP Concepts
+- Java Fundamentals
+- Methods and Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Static Members
+- Packages and Access Control
+- Exception Handling
+- Advanced OOP Concepts
     - Inner Classes
     - Anonymous Classes
     - Other Advanced Concepts
-- 12. Multithreading
-- 13. GUI Programming
-- 14. ArrayList
-- 15. File I/O
-- 16. Practical Projects
-- 17. Practice Problems
+- Multithreading
+- GUI Programming
+- ArrayList
+- File I/O
+- Practical Projects
+- Practice Problems
 ---
 
 
