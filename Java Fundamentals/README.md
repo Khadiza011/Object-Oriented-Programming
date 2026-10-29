@@ -1,5 +1,5 @@
 
-# ☕ Java Fundamentals
+# Java Fundamentals
 
 Welcome to the **Java Fundamentals** section of my Object-Oriented Programming (OOP) repository.
 
