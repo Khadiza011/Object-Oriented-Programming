@@ -311,7 +311,7 @@ public static void main(String[] args) {
 }
 ```
 
-# 💻 Sample Java Program
+# Sample Java Program
 
 ```java
 public class Main {
