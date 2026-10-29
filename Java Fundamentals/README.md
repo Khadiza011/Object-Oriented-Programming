@@ -44,7 +44,7 @@ The programs use standard Java features and can run on other compatible JDK vers
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Step 1: Check Java Installation
 
